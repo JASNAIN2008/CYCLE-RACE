@@ -1,1 +1,2 @@
-# CYCLE-RACE
+# collisionAlgorithm
+Algorithm to detect collision between two objects
